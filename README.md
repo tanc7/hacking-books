@@ -1,6 +1,14 @@
 # hacking-books
 
+# News: 2024-2025 Crack Update.
+
+1. RTFM v2 - Red Team Field Manual - 2nd Ed.pdf
+
+
+------------------------------------------------------------
+
 # News: 2022 Crack Update.
+(old list to be updated)
 
 1. Android Security Fundamentals
 2. Attacking Network Protocols
