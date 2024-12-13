@@ -5,9 +5,10 @@
 1. RTFM v2 - Red Team Field Manual - 2nd Ed.pdf
 
 
+------------------------------------------------------------
 
-(old list to be updated)
 # News: 2022 Crack Update.
+(old list to be updated)
 
 1. Android Security Fundamentals
 2. Attacking Network Protocols
